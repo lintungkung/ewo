@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Nunito ExtraLight'), local('Nunito-ExtraLight'), url(/cns/fonts/XRXW3I6Li01BKofA-seUYevN.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Nunito SemiBold'), local('Nunito-SemiBold'), url(/cns/fonts/XRXW3I6Li01BKofA6sKUYevN.ttf) format('truetype');
+}
